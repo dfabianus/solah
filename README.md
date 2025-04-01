@@ -1,3 +1,7 @@
+# Comments Fabian:
+https://www.youtube.com/watch?v=GDZ-AoAwndc
+
+
 # solah
 
 > Very basic solar regression
